@@ -1,0 +1,188 @@
+   0.000 2024-01-26 19:48:50; Factorio 1.1.101 (build 62011, win64, steam)
+   0.000 Operating system: Windows 11 (build 22621) 
+   0.000 Initializing Steam API.
+   0.001 Program arguments: "D:\SteamLibrary\steamapps\common\Factorio\bin\x64\Factorio.exe" 
+   0.001 Config path: C:/Users/teram/AppData/Roaming/Factorio/config/config.ini
+   0.001 Read data path: D:/SteamLibrary/steamapps/common/Factorio/data
+   0.001 Write data path: C:/Users/teram/AppData/Roaming/Factorio [20123/227808MB]
+   0.001 Binaries path: D:/SteamLibrary/steamapps/common/Factorio/bin
+   0.052 System info: [CPU: Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz, 8 cores, RAM: 10809/40813 MB, page: 13728/43373 MB, virtual: 4343/134217727 MB, extended virtual: 0 MB]
+   0.076 Memory info:
+   0.076  [0]: Crucial Technology CT32G4DFD832A.M16FF 32768 MB 2666 MHz 1.2 v
+   0.076  [1]: Crucial Technology CT8G4DFRA32A.M4FB 8192 MB 2666 MHz 1.2 v
+   0.077 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.207 Video driver: windows
+   0.207 Available displays: 1
+   0.207  [0]: \\.\DISPLAY1 - NVIDIA GeForce GTX 1650 {0x05, [0,0], 1366x768, 32bit, 60Hz}
+   0.261 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.565 Initialised Direct3D[0]: NVIDIA GeForce GTX 1650; id: 10de-1f82; driver: nvldumdx.dll 31.0.15.4665
+   0.565   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.565   [Local Video Memory] Budget: 3357MB, CurrentUsage: 22MB, Reservation: 0/1777MB
+   0.565   [Non-Local Vid.Mem.] Budget: 19638MB, CurrentUsage: 16MB, Reservation: 0/9947MB
+   0.565   Tiled resources: Tier 2
+   0.565   Unified Memory Architecture: No
+   0.565   BGR 565 Supported: Yes
+   0.565   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.565 Graphics settings preset: very-high
+   0.565   Dedicated video memory size 3950 MB
+   0.606 Desktop composition is active.
+   0.606 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality] [Color: 32bit]
+   0.606                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
+   0.627 [Audio] Backend:SDL(default); Driver:wasapi, Device:Default device, Depth:16, Channels:2, Frequency:44100
+   0.773 Info ModManager.cpp:258: Found duplicate mod aai-signal-transmission, using higher version (0.4.9 > 0.4.8).
+   0.906 Info ModManager.cpp:258: Found duplicate mod better-victory-screen, using higher version (0.2.8 > 0.2.7).
+   0.974 Info ModManager.cpp:258: Found duplicate mod BottleneckLite, using higher version (1.2.7 > 1.2.4).
+   0.975 Info ModManager.cpp:258: Found duplicate mod BottleneckLite, using higher version (1.2.8 > 1.2.7).
+   1.021 Info ModManager.cpp:258: Found duplicate mod Constructron-Continued, using higher version (1.1.3 > 1.1.0).
+   1.056 Info ModManager.cpp:258: Found duplicate mod ev-refining, using higher version (2.3.1 > 2.3.0).
+   1.063 Info ModManager.cpp:258: Found duplicate mod exotic-industries, using higher version (0.5.8 > 0.5.4).
+   1.099 Info ModManager.cpp:258: Found duplicate mod exotic-industries-graphics, using higher version (0.5.8 > 0.5.0).
+   1.104 Info ModManager.cpp:258: Found duplicate mod exotic-industries-graphics-2, using higher version (0.5.7 > 0.5.2).
+   1.152 Info ModManager.cpp:258: Found duplicate mod FNEI, using higher version (0.4.2 > 0.4.1).
+   1.210 Info ModManager.cpp:258: Found duplicate mod galdocs-manufacturing, using higher version (0.1.21 > 0.1.15).
+   1.239 Info ModManager.cpp:258: Found duplicate mod helmod, using higher version (0.12.16 > 0.12.15).
+   1.243 Info ModManager.cpp:258: Found duplicate mod helmod, using higher version (0.12.19 > 0.12.16).
+   1.247 Info ModManager.cpp:258: Found duplicate mod helmod, using higher version (0.12.20 > 0.12.19).
+   1.255 Info ModManager.cpp:258: Found duplicate mod IndustrialRevolution3, using higher version (3.1.20 > 3.1.17).
+   1.280 Info ModManager.cpp:258: Found duplicate mod IntermediatesForYou, using higher version (0.4.2 > 0.4.1).
+   1.286 Info ModManager.cpp:258: Found duplicate mod jetpack, using higher version (0.3.14 > 0.3.13).
+   1.357 Info ModManager.cpp:258: Found duplicate mod Kux-CoreLib, using higher version (2.11.0 > 2.10.0).
+   1.391 Error ModManager.cpp:999: Mod package read error. Opening zip C:/Users/teram/AppData/Roaming/Factorio/mods/New Compressed (zipped) Folder.zip failed: I/O error
+   1.398 Info ModManager.cpp:258: Found duplicate mod Power Armor MK3, using higher version (0.4.2 > 0.4.1).
+   1.400 Info ModManager.cpp:258: Found duplicate mod Power Armor MK3, using higher version (0.4.3 > 0.4.2).
+   1.401 Info ModManager.cpp:258: Found duplicate mod Power Armor MK3, using higher version (0.4.4 > 0.4.3).
+   1.402 Info ModManager.cpp:258: Found duplicate mod Power Armor MK3, using higher version (0.4.5 > 0.4.4).
+   1.450 Info ModManager.cpp:258: Found duplicate mod pyalienlife, using higher version (2.1.18 > 2.1.14).
+   1.491 Info ModManager.cpp:258: Found duplicate mod pyalienlifegraphics, using higher version (2.0.8 > 2.0.6).
+   1.508 Info ModManager.cpp:258: Found duplicate mod pyalienlifegraphics2, using higher version (2.0.9 > 2.0.8).
+   1.529 Info ModManager.cpp:258: Found duplicate mod pyalienlifegraphics3, using higher version (2.0.9 > 2.0.8).
+   1.537 Info ModManager.cpp:258: Found duplicate mod pyalternativeenergy, using higher version (1.2.15 > 1.2.10).
+   1.577 Info ModManager.cpp:258: Found duplicate mod pyalternativeenergygraphics, using higher version (1.0.8 > 1.0.7).
+   1.645 Info ModManager.cpp:258: Found duplicate mod RateCalculator, using higher version (3.2.2 > 3.1.2).
+   1.646 Info ModManager.cpp:258: Found duplicate mod RateCalculator, using higher version (3.2.3 > 3.2.2).
+   1.647 Info ModManager.cpp:258: Found duplicate mod RateCalculator, using higher version (3.2.4 > 3.2.3).
+   1.788 Info ModManager.cpp:258: Found duplicate mod simhelper, using higher version (1.1.5 > 1.1.4).
+   1.789 Info ModManager.cpp:258: Found duplicate mod simhelper, using higher version (1.1.6 > 1.1.5).
+   1.892 Error ModManager.cpp:999: Mod package read error. File C:/Users/teram/AppData/Roaming/Factorio/mods/speed-mod_1.0.0.zip/info.json not found
+   1.959 Info ModManager.cpp:258: Found duplicate mod WideChests, using higher version (5.0.1 > 5.0.0).
+   1.970 Loading mod settings boblibrary 1.2.0 (settings.lua)
+   1.970 Loading mod settings bzlead 1.2.20 (settings.lua)
+   1.970 Loading mod settings bztitanium 1.2.13 (settings.lua)
+   1.971 Loading mod settings helmod 0.12.20 (settings.lua)
+   1.975 Loading mod core 0.0.0 (data.lua)
+   2.019 Loading mod base 1.1.101 (data.lua)
+   2.280 Loading mod boblibrary 1.2.0 (data.lua)
+   2.319 Loading mod bullet-trails 0.6.2 (data.lua)
+   2.345 Loading mod bzlead 1.2.20 (data.lua)
+   2.384 Loading mod bztitanium 1.2.13 (data.lua)
+   2.427 Loading mod helmod 0.12.20 (data.lua)
+   2.458 Loading mod Mini_Trains 1.0.0 (data.lua)
+   2.495 Loading mod Rotatable_Equipment 0.1.0 (data.lua)
+   2.498 Script @__Rotatable_Equipment__/data.lua:10: Adding sprite filename <__Rotatable_Equipment__/graphics/rotated-battery-equipment.png> for battery-equipment - battery-equipment
+   2.498 Script @__Rotatable_Equipment__/data.lua:10: Adding sprite filename <__Rotatable_Equipment__/graphics/rotated-battery-mk2-equipment.png> for battery-equipment - battery-mk2-equipment
+   2.498 Script @__Rotatable_Equipment__/data.lua:10: Adding sprite filename <__Rotatable_Equipment__/graphics/rotated-exoskeleton-equipment.png> for movement-bonus-equipment - exoskeleton-equipment
+   2.498 Script @__Rotatable_Equipment__/data.lua:20: Adding hr sprite filename <__Rotatable_Equipment__/graphics/rotated-hr-battery-equipment.png> for battery-equipment - battery-equipment
+   2.498 Script @__Rotatable_Equipment__/data.lua:20: Adding hr sprite filename <__Rotatable_Equipment__/graphics/rotated-hr-battery-mk2-equipment.png> for battery-equipment - battery-mk2-equipment
+   2.498 Script @__Rotatable_Equipment__/data.lua:20: Adding hr sprite filename <__Rotatable_Equipment__/graphics/rotated-hr-exoskeleton-equipment.png> for movement-bonus-equipment - exoskeleton-equipment
+   2.532 Loading mod bobgreenhouse 1.2.0 (data.lua)
+   2.564 Loading mod base 1.1.101 (data-updates.lua)
+   2.607 Loading mod bullet-trails 0.6.2 (data-updates.lua)
+   2.641 Loading mod bzlead 1.2.20 (data-updates.lua)
+   2.714 Loading mod bztitanium 1.2.13 (data-updates.lua)
+   2.759 Loading mod Flammable_Oils_QUICKFIX_pvp 0.2.9 (data-updates.lua)
+   2.789 Loading mod Rotatable_Equipment 0.1.0 (data-updates.lua)
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: night-vision-equipment - name: night-vision-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: energy-shield-equipment - name: energy-shield-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: energy-shield-equipment - name: energy-shield-mk2-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: battery-equipment - name: battery-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: battery-equipment - name: battery-mk2-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: solar-panel-equipment - name: solar-panel-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: generator-equipment - name: fusion-reactor-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: active-defense-equipment - name: personal-laser-defense-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: active-defense-equipment - name: discharge-defense-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: movement-bonus-equipment - name: exoskeleton-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: roboport-equipment - name: personal-roboport-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: roboport-equipment - name: personal-roboport-mk2-equipment
+   2.790 Script @__Rotatable_Equipment__/data-updates.lua:18: Equipment category: belt-immunity-equipment - name: belt-immunity-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for solar-panel-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for fusion-reactor-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for battery-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:62: Found rotated sprite filename
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:62: Found rotated sprite filename
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:107: Creating alternative equipment for battery-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for battery-mk2-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:62: Found rotated sprite filename
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:62: Found rotated sprite filename
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:107: Creating alternative equipment for battery-mk2-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for belt-immunity-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for exoskeleton-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:62: Found rotated sprite filename
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:62: Found rotated sprite filename
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:107: Creating alternative equipment for exoskeleton-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for personal-roboport-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for personal-roboport-mk2-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for night-vision-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for energy-shield-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for energy-shield-mk2-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for personal-laser-defense-equipment
+   2.791 Script @__Rotatable_Equipment__/data-updates.lua:103: Found equipment for discharge-defense-equipment
+   2.817 Loading mod bobgreenhouse 1.2.0 (data-updates.lua)
+   2.848 Loading mod boblibrary 1.2.0 (data-final-fixes.lua)
+   2.849 Script @__boblibrary__/recipe-functions.lua:641: Running recipe ingredients cleanup...
+   2.887 Loading mod bzlead 1.2.20 (data-final-fixes.lua)
+   2.912 Loading mod bztitanium 1.2.13 (data-final-fixes.lua)
+   3.068 Checksum for core: 905122912
+   3.068 Checksum of base: 1054619811
+   3.068 Checksum of boblibrary: 4037735586
+   3.068 Checksum of bullet-trails: 3735931065
+   3.068 Checksum of bzlead: 3483191931
+   3.068 Checksum of bztitanium: 1637711521
+   3.068 Checksum of Flammable_Oils_QUICKFIX_pvp: 3872577755
+   3.068 Checksum of helmod: 4105086208
+   3.068 Checksum of Mini_Trains: 1270466007
+   3.068 Checksum of Rotatable_Equipment: 2750122437
+   3.068 Checksum of bobgreenhouse: 3152979333
+   3.339 Prototype list checksum: 1810935751
+   3.399 Loading sounds...
+   3.639 Info PlayerData.cpp:78: Local player-data.json unavailable
+   3.639 Info PlayerData.cpp:81: Cloud player-data.json available, timestamp 1706298518
+   4.097 Initial atlas bitmap size is 16384
+   4.148 Created atlas bitmap 16384x16372 [none]
+   4.157 Created atlas bitmap 16384x16072 [none]
+   4.157 Created atlas bitmap 8192x4188 [decal]
+   4.159 Created atlas bitmap 16384x6016 [low-object]
+   4.160 Created atlas bitmap 8192x5392 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   4.160 Created atlas bitmap 16384x6064 [terrain, mipmap, linear-minification, linear-mip-level]
+   4.161 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   4.161 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   4.161 Created atlas bitmap 4096x3104 [mipmap]
+   4.162 Created atlas bitmap 8192x2464 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   4.162 Created atlas bitmap 8192x1496 [alpha-mask]
+   4.229 Created atlas bitmap 16384x16380 [shadow, linear-magnification, alpha-mask]
+   4.229 Created atlas bitmap 16384x1732 [shadow, linear-magnification, alpha-mask]
+   4.230 Created atlas bitmap 8192x2352 [shadow, mipmap, linear-magnification, alpha-mask]
+   4.230 Created atlas bitmap 2048x240 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   4.235 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   5.725 Parallel Sprite Loader initialized (threads: 7)
+  17.361 Sprites loaded
+  17.417 Generated mipmaps (4) for atlas [3] of size 16384x6016   
+  17.438 Generated mipmaps (3) for atlas [4] of size 8192x5392   
+  17.461 Generated mipmaps (3) for atlas [5] of size 16384x6064   
+  17.472 Generated mipmaps (3) for atlas [6] of size 4096x3216   
+  17.505 Generated mipmaps (3) for atlas [7] of size 4096x1856   
+  17.544 Generated mipmaps (3) for atlas [8] of size 4096x3104   
+  17.556 Generated mipmaps (5) for atlas [9] of size 8192x2464   
+  17.568 Generated mipmaps (3) for atlas [13] of size 8192x2352   
+  17.584 Custom mipmaps uploaded (2433)
+  17.592 Custom inputs active: 7
+  17.719 Factorio initialised
+  17.719 Discord overlay detected (DiscordHook64.dll)
+  17.722 Steam Storage Quota: 23384/23841
+  80.695 Info HttpSharedState.cpp:58: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=1.1.101&lang=en
+  81.296 Info HttpSharedState.cpp:58: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=1.1.101&lang=en
+  82.645 Info HttpSharedState.cpp:58: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=1.1.101&lang=en
+  83.300 Info HttpSharedState.cpp:58: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=1.1.101&lang=en
+  83.781 Info HttpSharedState.cpp:58: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=1.1.101&lang=en
+  84.170 Info HttpSharedState.cpp:58: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=1.1.101&lang=en
+  84.589 Info HttpSharedState.cpp:58: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=1.1.101&lang=en
+  85.037 Info HttpSharedState.cpp:58: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=1.1.101&lang=en
